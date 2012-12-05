@@ -3,7 +3,7 @@ layout: post
 title: "First jekyll post"
 description: "This is my first test post"
 category: 
-tags: [testpost]
+tags: [test, post, jekyll]
 ---
 {% include JB/setup %}
 試試看行不行阿。
